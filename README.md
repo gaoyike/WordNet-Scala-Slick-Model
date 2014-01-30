@@ -11,7 +11,7 @@ WordNet-Scala-Slick-Model
 ###Step 2 : Get Scala and Slick
 
 1. Download this project, and run it by using SBT.
-2. ####Please notice that, this project tested in Scala 2.10.1 with SBT 0.12.3.
+2. Please notice that, this project tested in Scala 2.10.1 with SBT 0.12.3.
 3. You can also open this project by using Intellij.
 
 ###Step 3 : Slick Model
